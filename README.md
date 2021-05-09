@@ -1,4 +1,4 @@
-<a href="https://github.com/cristian-ungureanu/customizer-repeater"> Main Source File Download </a>
+<a href="https://github.com/cristian-ungureanu/customizer-repeater"> Main Source File Download </a></br>
 What is Customizer Repeater?
 
 Customizer Repeater is a custom control for the WordPress Theme Customizer. It's designed to be super user-friendly not only for your customers but for you too.
